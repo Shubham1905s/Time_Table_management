@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shubham Mirashi",
+    "role": "Designer",
+    "picture": "assets/images/team/Shubham.png",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "whatsapp": "https://whatsapp.com"
+  },
+  {
+    "name": "Pranav S K",
+    "role": "Developer",
+    "picture": "assets/images/team/Pranav.png",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "whatsapp": "https://whatsapp.com"
+  },
+  {
+    "name": "Soumya Huchanur",
+    "role": "Designer",
+    "picture": "assets/images/team/Soumya.png",
+    "facebook": "https://facebook.com",
+    "instagram": "https://instagram.com",
+    "whatsapp": "https://whatsapp.com"
+  },
+  {
+    "name": "Jeeshan Inamdar",
+    "role": "Developer",
+    "picture": "assets/images/team/Jeeshan.png",
+    "facebook": "https://facebook.com//JeeshanInamdar",
+    "instagram": "https://instagram.com//jeeshan.inamdar",
+    "whatsapp": "https://whatsapp.com/918197034809"
+  }
+]
